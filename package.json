@@ -1,0 +1,23 @@
+{
+  "name": "aframe-boilerplate-webpack",
+  "version": "1.0.0",
+  "description": " A-Frame boilerplate using Webpack. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhoudmedia/aframe-boilerplate-webpack.git"
+  },
+  "keywords": [
+    "a-frame",
+    "boilerplate"
+  ],
+  "author": "Danny de Vries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samhoudmedia/aframe-boilerplate-webpack/issues"
+  },
+  "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-webpack#readme"
+}
