@@ -4,6 +4,7 @@
   "description": " A-Frame boilerplate using Webpack. ",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server",
     "build": "webpack"
   },
   "repository": {
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-webpack#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
     "webpack": "^4.0.1",
     "webpack-cli": "^2.0.9",
     "webpack-dev-server": "^3.0.0"
